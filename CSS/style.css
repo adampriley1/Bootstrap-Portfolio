@@ -1,0 +1,32 @@
+:root {
+    --bg-darkgrey: rgb(51, 52, 52);
+    --bg-lightblue: rgb(187, 213, 255);
+  }
+
+ /* Change colour of nav bar and elements */
+ 
+  .nav-container {
+    background-color: var(--bg-darkgrey);
+  }
+
+  .headerName {
+    background-color: var(--bg-lightblue);
+    color: var(--bg-darkgrey);
+  }
+
+  .navLinks {
+    color: var(--bg-lightblue)!important;
+    border-bottom: 3px solid var(--bg-lightblue);
+  }
+
+  /* Unable to change hamburger to light color */
+  nav-icon {
+   
+  }
+
+  .heroHeader {
+    background-image: url("../images/adam_Riley_jumbo.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 40vh
+  }
