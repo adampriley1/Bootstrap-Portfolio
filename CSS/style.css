@@ -24,5 +24,14 @@
     background-size: cover;
     width: 100%;
     height: 50vh;
-    
-  }
+  } 
+/* change Contact icons */
+
+.icon:hover {
+    background-color: var(--bg-lightblue);
+}
+
+.icon {
+    font-size: 3rem;
+    color: var(--bg-darkgrey);
+}
