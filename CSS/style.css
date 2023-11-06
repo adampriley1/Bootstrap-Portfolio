@@ -19,6 +19,12 @@
     border-bottom: 3px solid var(--bg-lightblue);
   }
 
+  .navLinks:hover {
+    background-color: var(--bg-lightblue);
+    color: var(--bg-darkgrey)!important;
+}
+
+
   .heroHeader {
     background-image: url("../images/adam_Riley_jumbo.jpg");
     background-size: cover;
@@ -34,4 +40,10 @@
 .icon {
     font-size: 3rem;
     color: var(--bg-darkgrey);
+}
+
+/* Border contact me */
+
+.contact-me {
+    border-top: 3px solid var(--bg-lightblue)
 }
