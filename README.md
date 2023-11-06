@@ -13,6 +13,8 @@ This is a website for to showcase the work of Adam Riley - Software Dewveloper. 
 - created responsive contact me section with icons that have hover affect and link to relevent websites. Text about me and picure of me 
 - Added semantic elements to the page: (nav, header, section, aside, footer)
 
+Screenshot:
+![alt text](images/Adam%20Riley%20Screenshot.png "Screenshot of website")
 
 ## Installation
 
@@ -21,6 +23,10 @@ N/A
 ## Usage
 
 Website for visitors to understand more about Adam Riley's skillset
+
+Application Link:
+
+https://adampriley1.github.io/Bootstrap-Portfolio/
 
 
 
